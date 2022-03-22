@@ -15,4 +15,4 @@ Start the app
 npm start
 ```
 
-[![Travel Journal](./src/images/screenshot.png)]
+![Travel Journal](./src/images/screenshot.png)
