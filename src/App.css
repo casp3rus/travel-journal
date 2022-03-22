@@ -31,14 +31,13 @@
   display: flex;
   align-items: center;
   width: 75vw;
-  height: 17vh;
+  height: 300px;
   padding: 30px;
 }
 
 
 hr {
   width:75vw;
-  box-shadow: inset;
 }
 
 .card--content {
@@ -48,9 +47,10 @@ hr {
 }
 
 .card--image {
-  border-radius: 5px;
+  border-radius: 10px;
   height: 100%;
-  max-width: 200px;
+  max-width: 220px;
+  object-fit:cover
 }
 
 .card--image:hover {
@@ -58,40 +58,34 @@ hr {
 }
 
 .card--pin {
-  height: 10px
+  height: 11px
 }
 .card--location {
   text-transform: uppercase;
   font-weight: 400;
-  font-size: 11px;
-  line-height: 12px;
+  font-size: 14px;
   letter-spacing: 0.2em;
   margin: 0px 5px;
 }
 
 .card--map-link {
   font-weight: 400;
-  font-size: 11px;
-  line-height: 12px;
+  font-size: 14px;
   text-decoration-line: underline;
   color: #918E9B;
 }
 
 .card--title {
   font-weight: 700;
-  font-size: 25px;
-  line-height: 30px;
+  font-size: 26px;
 }
 
 .card--timeline {
   font-weight: 700;
-  font-size: 10.24px;
-  line-height: 12px;
+  font-size: 12px;
 }
 
 .card-text {
   font-weight: 400;
-  font-size: 10.24px;
-  line-height: 150%;
-  text-align: unset;
+  font-size: 12px;
 }

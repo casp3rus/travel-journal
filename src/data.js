@@ -45,7 +45,7 @@ export default [
       start: 'Jun 12, 2018',
       end: 'Jun 15, 2018'
     },
-    text: 'Mount Whitney (Paiute: Tumanguya; Too-man-i-goo-yah) is the highest mountain in the contiguous United States and the Sierra Nevada, with an elevation of 14,505 feet (4,421 m).[1] It is in East–Central California'
+    text: 'Mount Whitney (Paiute: Tumanguya; Too-man-i-goo-yah) is the highest mountain in the contiguous United States and the Sierra Nevada, with an elevation of 14,505 feet (4,421 m).[1] It is in East–Central California.'
   },
   {
     id: 5,
